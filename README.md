@@ -63,7 +63,7 @@ Analyzed production and performance metrics to improve manufacturing efficiency 
 **Tools:** Power BI / Tableau, Python, SQL
 
 
- ### 🏭  🛒 E-Commerce Sales Analysis with Python & Power BI 
+ ###   🛒 E-Commerce Sales Analysis with Python & Power BI 
  Conducted end-to-end analysis of an online retail dataset, including data cleaning, exploratory data analysis, and building an interactive Power BI dashboard. Created KPIs using DAX to track sales performance, customer trends, and top products, delivering actionable business insights.
 
 ---
