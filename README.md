@@ -49,13 +49,6 @@ Developed a system for automating attendance, marking, and grade tracking for te
 **Tech Used:** Python (Django), HTML, CSS, SQL  
 **Role:** Team Leader – Backend, Database Design, and Integration
 
-
-
-### 📈 Customer Segmentation using K-Means
-Used clustering techniques to group customers based on income and spending scores, supporting targeted marketing campaigns.  
-**Goal:** Identify high-value customers, design customer strategies  
-**Tech Used:** Python, Scikit-learn
-
 ### 🏭 Manufacturing Analytics
 Analyzed production and performance metrics to improve manufacturing efficiency and decision-making.  
 **Tools:** Power BI / Tableau, Python, SQL
