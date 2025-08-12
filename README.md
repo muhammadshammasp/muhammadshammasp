@@ -49,9 +49,7 @@ Developed a system for automating attendance, marking, and grade tracking for te
 **Tech Used:** Python (Django), HTML, CSS, SQL  
 **Role:** Team Leader – Backend, Database Design, and Integration
 
-### 📊 Data Science Live Projects
-Worked on various real-world datasets using Pandas, Matplotlib, and Scikit-learn to extract meaningful insights.  
-**Role:** Data Analyst – data preprocessing, model building, and visualization
+
 
 ### 📈 Customer Segmentation using K-Means
 Used clustering techniques to group customers based on income and spending scores, supporting targeted marketing campaigns.  
